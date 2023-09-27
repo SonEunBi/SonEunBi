@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=d0bdbd&height=120&text=EunBi's%20GIT&animation=fadeIn&fontColor=4f3030&fontSize=50" />
+    ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Self-Introduction </h2>  
