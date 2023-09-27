@@ -24,8 +24,8 @@
          <a href=mailto:beehand7147@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beehand7147@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
-        [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=SonEunBi)](https://solved.ac/SonEunBi)
     </div>
-</div>
-    
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=SonEunBi)](https://solved.ac/treach639)  </div> 
+    </div>
