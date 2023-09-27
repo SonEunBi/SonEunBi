@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=#d7bfbf&height=200&section=header&text=Hello&desc=I'm%80EunBi&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=Fadein)
+![header](https://capsule-render.vercel.app/api?type=slice&color=#d7bfbf&height=200&section=header&text=Hello&desc=I'm%20EunBi&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=Fadein)
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Self-Introduction </h2>  
