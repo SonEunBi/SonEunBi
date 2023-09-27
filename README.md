@@ -6,7 +6,6 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요. 꾸준하게 도전하고 성장하는 개발자입니다. 필요한 플랫폼을 만들고, 사용자가 원하는 서비스를 제공하고 싶습니다. </div> 
     </div>
 
-    <!--기술스택 -->
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
@@ -30,7 +29,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> </div> 
     </div>
-    </div>
+</div>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=SonEunBi)](https://solved.ac/treach639)  
 
