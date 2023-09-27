@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%EunBi&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%EunBi&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=FadeIn)
 
-    <div style="text-align: left;"> 
+<div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Self-Introduction </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요. 꾸준하게 도전하고 성장하는 개발자 은비입니다. 필요한 플랫폼을 만들고, 사용자가 원하는 서비스를 제공하고 싶습니다. </div> 
     </div>
