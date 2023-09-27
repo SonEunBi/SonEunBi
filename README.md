@@ -32,5 +32,5 @@
 </div>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=SonEunBi)](https://solved.ac/treach639)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=treach639)](https://solved.ac/treach639)
 
